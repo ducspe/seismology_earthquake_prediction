@@ -8,7 +8,7 @@ This work was presented at the European Geosciences Union 2023 (EGU23): https://
 
 For explanations, please find the EGU23 presentation in this repository, file: "EGU2023_presentation.pdf"
 
-Subsequently, our paper "Explainable machine learning for labquake prediction using catalog-driven features" used this code as a starting point and built upon it for further scientific inquiry. You may find our paper here: https://www.sciencedirect.com/science/article/pii/S0012821X23003965 / https://doi.org/10.1016/j.epsl.2023.118383 Please consider citing if you find this work useful.
+Subsequently, our paper **"Explainable machine learning for labquake prediction using catalog-driven features"** used this code as a starting point and built upon it for further scientific inquiry. You may find our paper here: https://www.sciencedirect.com/science/article/pii/S0012821X23003965 / https://doi.org/10.1016/j.epsl.2023.118383 Please consider citing if you find this work useful.
 
 **Many thanks to the following institutions that made this work possible:**
 - German Climate Computing Center (DKRZ), Hamburg, Germany
